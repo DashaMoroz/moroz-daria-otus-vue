@@ -10,7 +10,7 @@ module.exports = defineConfig({
   // путь к сгенерированному index.html
   indexPath: 'index.html',
   css: {
-    // использование source maps для CSS
+    // использование sourcemaps для CSS
     sourceMap: false,
   },
 })
